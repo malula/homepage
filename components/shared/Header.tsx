@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
-import NavItems from './NavItems';
+
+
 
 const Header = () => {
   return (
